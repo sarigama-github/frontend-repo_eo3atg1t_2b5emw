@@ -1,6 +1,7 @@
 import Hero from './components/Hero'
 import Features from './components/Features'
 import Demo from './components/Demo'
+import Manage from './components/Manage'
 import Footer from './components/Footer'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Hero />
       <Features />
       <Demo />
+      <Manage />
       <Footer />
     </div>
   )
